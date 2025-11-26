@@ -1,10 +1,11 @@
 {
-  "name": "smartcart-ai-platform",
+  "name": "smartcart-client",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
     "firebase": "^10.8.0",
     "lucide-react": "^0.344.0",
     "tailwindcss": "^3.4.1"
